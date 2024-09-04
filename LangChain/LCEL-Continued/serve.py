@@ -9,7 +9,7 @@ import getpass
 import os
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = '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'
+os.environ["LANGCHAIN_API_KEY"] = getpass.getpass()
 
 os.environ["OPENAI_API_KEY"] = getpass.getpass()
 
