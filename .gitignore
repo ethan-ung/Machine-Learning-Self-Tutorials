@@ -1,3 +1,4 @@
 cuda/
 Pytorch-Doc-Tutorial/model_weights.pth
 Pytorch-Doc-Tutorial/vgg-model.pth
+Datasets/
